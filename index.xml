@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="GripTab" commit="">
+  <category name="MIDI">
+    <reapack name="GripTab.lua" type="script" desc="GripTab – MIDI to Guitar Tablature">
+      <metadata>
+        <description><![CDATA[
+GripTab displays MIDI items as live guitar tablature in a floating window.
+
+Features:
+- Converts MIDI notes to guitar tab (6-string, configurable tuning)
+- Playhead cursor follows playback in real time
+- 10 tuning presets: Standard, Drop D, Open G, DADGAD and more
+- Proportional spacing — pauses are shown as empty space
+- Zoom with +/- or Ctrl+wheel
+- Auto-scroll during playback
+        ]]></description>
+        <link rel="website">https://github.com/deNoi5e/ReaperGripTab</link>
+      </metadata>
+      <version name="1.0.0" author="deNoi5e" time="2026-03-25T00:00:00Z">
+        <changelog><![CDATA[
+- Initial release
+        ]]></changelog>
+        <source file="GripTab.lua">https://github.com/deNoi5e/ReaperGripTab/raw/refs/heads/main/reapack/GripTab.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
