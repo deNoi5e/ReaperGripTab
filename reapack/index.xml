@@ -20,7 +20,7 @@ Features:
         <changelog><![CDATA[
 - Initial release
         ]]></changelog>
-        <source file="GripTab.lua">https://github.com/deNoi5e/ReaperGripTab/raw/main/GripTab.lua</source>
+        <source file="GripTab.lua">https://github.com/deNoi5e/ReaperGripTab/raw/refs/heads/main/reapack/GripTab.lua</source>
       </version>
     </reapack>
   </category>
